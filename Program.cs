@@ -39,7 +39,7 @@ decimal jeongSum = jeong1 + jeong2 + jeong3 + jeong4 + jeong5 ;
 decimal jeongMedia = jeongSum / currentAssignments;
 
 Console.WriteLine("Student\t\tgrade");
-Console.WriteLine($"Sophia\t\t" + sophiaMedia );
-Console.WriteLine($"Nicolas\t\t" + nicolasMedia);
-Console.WriteLine($"zahirah\t\t" + zahirahMedia );
-Console.WriteLine($"Jeong\t\t" + jeongMedia);
+Console.WriteLine($"Sophia\t\t" + sophiaMedia + "\tA");
+Console.WriteLine($"Nicolas\t\t" + nicolasMedia + "\tB");
+Console.WriteLine($"zahirah\t\t" + zahirahMedia + "\tB" );
+Console.WriteLine($"Jeong\t\t" + jeongMedia + "\tA");
