@@ -1,0 +1,15 @@
+/workspaces/Calculate-and-print-student-grades/bin/Debug/net7.0/Calculate-and-print-student-grades
+/workspaces/Calculate-and-print-student-grades/bin/Debug/net7.0/Calculate-and-print-student-grades.deps.json
+/workspaces/Calculate-and-print-student-grades/bin/Debug/net7.0/Calculate-and-print-student-grades.runtimeconfig.json
+/workspaces/Calculate-and-print-student-grades/bin/Debug/net7.0/Calculate-and-print-student-grades.dll
+/workspaces/Calculate-and-print-student-grades/bin/Debug/net7.0/Calculate-and-print-student-grades.pdb
+/workspaces/Calculate-and-print-student-grades/obj/Debug/net7.0/Calculate-and-print-student-grades.csproj.AssemblyReference.cache
+/workspaces/Calculate-and-print-student-grades/obj/Debug/net7.0/Calculate-and-print-student-grades.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Calculate-and-print-student-grades/obj/Debug/net7.0/Calculate-and-print-student-grades.AssemblyInfoInputs.cache
+/workspaces/Calculate-and-print-student-grades/obj/Debug/net7.0/Calculate-and-print-student-grades.AssemblyInfo.cs
+/workspaces/Calculate-and-print-student-grades/obj/Debug/net7.0/Calculate-and-print-student-grades.csproj.CoreCompileInputs.cache
+/workspaces/Calculate-and-print-student-grades/obj/Debug/net7.0/Calculate-and-print-student-grades.dll
+/workspaces/Calculate-and-print-student-grades/obj/Debug/net7.0/refint/Calculate-and-print-student-grades.dll
+/workspaces/Calculate-and-print-student-grades/obj/Debug/net7.0/Calculate-and-print-student-grades.pdb
+/workspaces/Calculate-and-print-student-grades/obj/Debug/net7.0/Calculate-and-print-student-grades.genruntimeconfig.cache
+/workspaces/Calculate-and-print-student-grades/obj/Debug/net7.0/ref/Calculate-and-print-student-grades.dll
